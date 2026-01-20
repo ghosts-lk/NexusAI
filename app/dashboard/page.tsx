@@ -1,5 +1,3 @@
-'use cache'
-
 import { createClient } from "@/lib/supabase/server"
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card"
 import { FileText, MessageSquare, CheckSquare, Sparkles, TrendingUp, Zap } from "lucide-react"
